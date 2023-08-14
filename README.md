@@ -1,1 +1,1 @@
-# lab-banco-de-dados-2s-2023
+#Repositório voltado a matéria Laborátorio de Banco de Dados
